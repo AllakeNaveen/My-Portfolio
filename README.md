@@ -40,14 +40,14 @@ St. Anne's, Virajpet, Karnataka, India
 ### Unit Conversion App
 
 - Description: A simple unit conversion web application built using HTML.
-- [Try it out](#) (Replace with the actual demo link)
-- ![Unit Conversion App](images\unitconversion.jpg)
+- [Try it out](#) file:///C:/Users/asnav/Unit%20Conversion/index.html
+- ![Unit Conversion](images\unitconversion.jpg)
 
 ### To-Do List App
 
 - Description: An interactive to-do list web application created using HTML.
-- [Try it out](#) (Replace with the actual demo link)
-- ![To-Do List App](images\todolist.jpg)
+- [Try it out](#) file:///C:/Users/asnav/todo.html
+- ![To-Do List](images\todolist.jpg)
 
 Feel free to explore more projects in my portfolio!
 
