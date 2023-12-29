@@ -45,7 +45,7 @@ St. Anne's, Virajpet, Karnataka, India
 ### To-Do List App
 
 - Description: An interactive to-do list web application created using HTML.
-- Try it out file:///C:/Users/asnav/todo.html
+- Try it out https://github.com/AllakeNaveen/todolist.git
 
 Feel free to explore more projects in my portfolio!
 
