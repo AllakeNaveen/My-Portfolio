@@ -33,7 +33,7 @@ I am A.S.Naveen, a recent graduate with a Bachelor of Science degree. Passionate
 
 **Bachelor of Science**
 St. Anne's, Virajpet, Karnataka, India
-[Visit St. Anne's Degree College](https://www.stannesdegreevirajpet.com/index.html)
+[Visit Mangalore University](https://www.mangaloreuniversity.ac.in/)
 
 ## Projects
 
@@ -41,13 +41,13 @@ St. Anne's, Virajpet, Karnataka, India
 
 - Description: A simple unit conversion web application built using HTML.
 - [Try it out](#) (Replace with the actual demo link)
-- ![Unit Conversion App](path/to/unit_conversion_screenshot.png)
+- ![Unit Conversion App](images\unitconversion.jpg)
 
 ### To-Do List App
 
 - Description: An interactive to-do list web application created using HTML.
 - [Try it out](#) (Replace with the actual demo link)
-- ![To-Do List App](path/to/todo_list_screenshot.png)
+- ![To-Do List App](images\todolist.jpg)
 
 Feel free to explore more projects in my portfolio!
 
